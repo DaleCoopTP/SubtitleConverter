@@ -48,11 +48,6 @@ make
 ```
 
 
-**Options:**
-
-- `--shift <+|->HH:MM:SS.mmm`  Shift all timestamps by the specified offset.
-- `--remove-tags`             Remove all style tags from output.
-- `--help`                    Display help message with all options.
 
 **Example:**
 
