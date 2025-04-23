@@ -7,7 +7,6 @@ A C++ application for converting and processing subtitles in various formats: SR
 - [Features](#features)
 - [Requirements](#requirements)
 - [Architecture](#architecture)
-  - [Class Diagram](#class-diagram)
   - [Design Patterns](#design-patterns)
 - [Build](#build)
 - [Examples](#examples)
@@ -32,9 +31,6 @@ A C++ application for converting and processing subtitles in various formats: SR
 
 The system is built around a base `Subtitle` class, with each format implemented as a derived class. A factory pattern handles format detection and instantiation. Operations like conversion, timestamp shifting, and collision detection are provided via polymorphism.
 
-### Class Diagram
-
-![Class Diagram](docs/class_diagram.png)
 
 ### Design Patterns
 
