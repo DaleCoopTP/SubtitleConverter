@@ -1,0 +1,21 @@
+# ninja log v6
+1	1484	1745427742108534321	CMakeFiles/se_cpp_prog_subtitles_DaleCoopTP.dir/src/main.cpp.o	a2e4f97d3d9d5f08
+2	1907	1745427742109997204	CMakeFiles/se_cpp_prog_subtitles_DaleCoopTP.dir/src/SRT.cpp.o	c248f21f1e9ed32e
+3	1949	1745427742110343071	CMakeFiles/se_cpp_prog_subtitles_DaleCoopTP.dir/src/TTML.cpp.o	4a38c97a5ce0a1f0
+3	1973	1745427742110141409	CMakeFiles/se_cpp_prog_subtitles_DaleCoopTP.dir/src/SSA.cpp.o	a7b6cfd081a0d3c0
+2	1973	1745427742109791292	CMakeFiles/se_cpp_prog_subtitles_DaleCoopTP.dir/src/SAMI.cpp.o	20377fd46f2bff0d
+1974	2097	1745427744080996315	se_cpp_prog_subtitles_DaleCoopTP	30bc4d3917fce003
+3	1157	1745427767199615810	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	300d9f4e3b5daa71
+4	2034	1745427767200499165	CMakeFiles/unit_tests.dir/src/SAMI.cpp.o	cc554b96b314fdb1
+3	2048	1745427767200086757	CMakeFiles/unit_tests.dir/test/tests.cpp.o	1b27b7cee7a3e4ac
+4	2081	1745427767200685619	CMakeFiles/unit_tests.dir/src/SRT.cpp.o	3c08eeea6db87ceb
+4	2114	1745427767200913572	CMakeFiles/unit_tests.dir/src/SSA.cpp.o	b8caa9d016313601
+1157	2497	1745427768353825307	CMakeFiles/unit_tests.dir/src/TTML.cpp.o	8c6bf7989b73e1e7
+2	2926	1745427767199127154	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	5b4e9f7e26ef9b32
+2926	2986	1745427770122675363	lib/libgtest.a	f3e2e0260090b16a
+2986	3006	1745427770182587038	lib/libgtest_main.a	173d721be4f94a5c
+3006	3329	1745427770524741815	unit_tests	40700f0b4be1d809
+3006	3329	1745427770524741815	unit_tests[1]_tests.cmake	40700f0b4be1d809
+3006	3329	1745427770524741815	/Users/lucifer/Desktop/SubtitleConverter/cmake-build-debug/unit_tests[1]_tests.cmake	40700f0b4be1d809
+13	666	1745427848326981825	CMakeFiles/se_cpp_prog_subtitles_DaleCoopTP.dir/src/main.cpp.o	a2e4f97d3d9d5f08
+666	785	1745427848980532455	se_cpp_prog_subtitles_DaleCoopTP	30bc4d3917fce003

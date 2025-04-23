@@ -1,0 +1,21 @@
+# ninja log v6
+0	15	1745427480510759480	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	3ff03d8eaffb1cc6
+0	15	1745427480510759480	/Users/lucifer/Desktop/SubtitleConverter/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	3ff03d8eaffb1cc6
+15	1251	1745427481746703238	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	dc5cff8ba0ce7dad
+15	1251	1745427481746703238	/Users/lucifer/Desktop/SubtitleConverter/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	dc5cff8ba0ce7dad
+1251	1263	1745427481758691048	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	4729f2a4d9df216c
+1251	1263	1745427481758691048	/Users/lucifer/Desktop/SubtitleConverter/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	4729f2a4d9df216c
+1263	1275	1745427481771160888	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	f22db93d291ca2c5
+1263	1275	1745427481771160888	/Users/lucifer/Desktop/SubtitleConverter/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	f22db93d291ca2c5
+1275	1287	1745427481783405109	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	9b168863746e0d5b
+1275	1287	1745427481783405109	/Users/lucifer/Desktop/SubtitleConverter/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	9b168863746e0d5b
+1287	1299	1745427481795271129	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	d94bc302bc8b3dae
+1287	1299	1745427481795271129	/Users/lucifer/Desktop/SubtitleConverter/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	d94bc302bc8b3dae
+1299	1311	1745427481807164191	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	d8ae2b4e681d5acb
+1299	1311	1745427481807164191	/Users/lucifer/Desktop/SubtitleConverter/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	d8ae2b4e681d5acb
+1311	1325	1745427481821326618	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	d21b601876c1ee34
+1311	1325	1745427481821326618	/Users/lucifer/Desktop/SubtitleConverter/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	d21b601876c1ee34
+1325	1342	1745427481838391229	CMakeFiles/googletest-populate-complete	118d9c5c17f11bd3
+1325	1342	1745427481838391229	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	118d9c5c17f11bd3
+1325	1342	1745427481838391229	/Users/lucifer/Desktop/SubtitleConverter/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	118d9c5c17f11bd3
+1325	1342	1745427481838391229	/Users/lucifer/Desktop/SubtitleConverter/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	118d9c5c17f11bd3

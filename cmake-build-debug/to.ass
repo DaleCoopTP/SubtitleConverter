@@ -1,0 +1,22 @@
+[Script Info]
+Title: Converted Subtitle
+ScriptType: v4.00+
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, BackColour, Bold, Italic, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H00000000,0,0,2,10,10,10,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Text
+Dialogue: Marked=0,00:00:05.000,00:00:07.000,Default,,0,0,0,This is an example of <u>subtitle</u> formatting.
+Dialogue: Marked=0,00:00:08.500,00:00:12.000,Default,,0,0,0,Here we have a <font color="red">red text</font> for effect.\
+Dialogue: Marked=0,00:00:13.000,00:00:15.000,Default,,0,0,0,Multiple lines of subtitle.
+Second line continues here.
+Dialogue: Marked=0,00:00:16.000,00:00:20.000,Default,,0,0,0,Mixing <i>italic</i>, <b>bold</b> and <u>underline</u> in one line.
+Dialogue: Marked=0,00:00:21.000,00:00:25.000,Default,,0,0,0,No formatting here, just plain text.
+Dialogue: Marked=0,00:00:26.000,00:00:29.000,Default,,0,0,0,Another <font color="blue">colored</font> text with <i>formatting</i>.
+Dialogue: Marked=0,00:00:30.000,00:00:33.000,Default,,0,0,0,Here is a subtitle with multiple
+
+Dialogue: Marked=0,00:00:34.000,00:00:37.000,Default,,0,0,0,Subtitle without any formatting ta  gs.
+Dialogue: Marked=0,00:00:38.000,00:00:42.000,Default,,0,0,0,Final subtitle with <i>italic</i> and <u>underline</u>.

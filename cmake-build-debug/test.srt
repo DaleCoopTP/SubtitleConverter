@@ -1,0 +1,41 @@
+1
+00:00:01,000 --> 00:00:05,000
+<i>Welcome</i> to the <b>show</b>.
+
+2
+00:00:05,000 --> 00:00:07,000
+This is an example of <u>subtitle</u> formatting.
+
+3
+00:00:08,500 --> 00:00:12,000
+Here we have a <font color="red">red text</font> for effect.\
+
+4
+00:00:13,000 --> 00:00:15,000
+Multiple lines of subtitle.
+Second line continues here.
+
+5
+00:00:16,000 --> 00:00:20,000
+Mixing <i>italic</i>, <b>bold</b> and <u>underline</u> in one line.
+
+6
+00:00:21,000 --> 00:00:25,000
+No formatting here, just plain text.
+
+7
+00:00:26,000 --> 00:00:29,000
+Another <font color="blue">colored</font> text with <i>formatting</i>.
+
+8
+00:00:30,000 --> 00:00:33,000
+Here is a subtitle with multiple
+lines and <b>embedded</b> formatting.
+
+9
+00:00:34,000 --> 00:00:37,000
+Subtitle without any formatting ta  gs.
+
+10
+00:00:38,000 --> 00:00:42,000
+Final subtitle with <i>italic</i> and <u>underline</u>.

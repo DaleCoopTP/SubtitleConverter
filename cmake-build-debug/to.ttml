@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml">
+<body>
+<div>
+<p begin="00:00:05.000" end="00:00:07.000">This is an example of <u>subtitle</u> formatting.</p>
+<p begin="00:00:08.500" end="00:00:12.000">Here we have a <font color="red">red text</font> for effect.\</p>
+<p begin="00:00:13.000" end="00:00:15.000">Multiple lines of subtitle.
+Second line continues here.</p>
+<p begin="00:00:16.000" end="00:00:20.000">Mixing <i>italic</i>, <b>bold</b> and <u>underline</u> in one line.</p>
+<p begin="00:00:21.000" end="00:00:25.000">No formatting here, just plain text.</p>
+<p begin="00:00:26.000" end="00:00:29.000">Another <font color="blue">colored</font> text with <i>formatting</i>.</p>
+<p begin="00:00:30.000" end="00:00:33.000">Here is a subtitle with multiple
+</p>
+<p begin="00:00:34.000" end="00:00:37.000">Subtitle without any formatting ta  gs.</p>
+<p begin="00:00:38.000" end="00:00:42.000">Final subtitle with <i>italic</i> and <u>underline</u>.</p>
+</div>
+</body>
+</tt>
